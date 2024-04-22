@@ -15,7 +15,7 @@ Enabling stripe payment gateway
 
 On the checkout page,you will see stripe payment enabled.
 <img src="https://github.com/Raghu9219/ProjectSportsArena/assets/167450849/9e7a2bb3-56bc-42cf-aa44-70432551f30c">
-
+<h1>Screenshot from our website</h1>
 
 1.  The below screenshot is a home page of the website we have developed.
 <img src="https://github.com/urmilareddy99/Ecommerce-project/assets/127900238/ff58c7f0-ec4c-46dd-8cef-daf7564dd523">
