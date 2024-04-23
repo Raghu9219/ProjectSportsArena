@@ -1,5 +1,11 @@
 # ProjectSportsArena
-
+<h2>File Structure of project</h2>
+cpanel: Stores configuration files and settings related to your hosting control panel<br>
+htaccess: A configuration file for use with Apache Web Server. It can control high-level settings of your website.<br>
+wp-admin: Contains the files necessary for the WordPress administrative dashboard.<br>
+wp-content: This is where themes, plugins, and uploads are stored. Essentially, it's the folder that contains most user-generated and customizable data.<br>
+wp-includes: The core WordPress files that are necessary for the CMS to function but generally not modified by the user.<br>
+<h2>Individual Contribution</h2>
 Installed the plugin stripe payment gateway that integrates with woocommerce plugin for easier checkout<br>
 <img src="https://github.com/Raghu9219/ProjectSportsArena/assets/167450849/db788cd7-874d-4755-aec2-48bb9eac2fb1">
 
